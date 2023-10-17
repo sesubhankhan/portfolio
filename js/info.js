@@ -2,7 +2,7 @@ const personDetails = {
     personal: {
       firstName: "Subhan",
       lastName: "Khan",
-      email: "sebilalzafar@gmail.com",
+      email: "subhan046643@gmail.com",
       age: 19,
       languages: " English & Urdu",
       phone: "0308-0455426",
@@ -43,8 +43,8 @@ const personDetails = {
       "vscode": 90,
       },
     social: {
-      github: "https://github.com/sebilalzafar",
-      linkedin: "https://www.linkedin.com/in/sebilalzafar/",
+      github: "#",
+      linkedin: "#",
       codepen: "#",
       telegram: "#"
     }
